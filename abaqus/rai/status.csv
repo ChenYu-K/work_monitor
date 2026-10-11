@@ -1,5 +1,5 @@
 ﻿"job","status","step","increment","detail","updated"
 "h386-joscr-ref2001-bias-h116","COMPLETED","STEP 3  ORIGIN 2.0000","531135","inc/steptime/totaltime/wall: 531135 / 1.000E+00 / 3.000E+00 / 18:37:03 | Output Field Frame Number   100, of    100, at step time 1.000E+00","2026-10-09 13:27"
 "h386-joscr-ref2001-bias-h136","COMPLETED","STEP 3  ORIGIN 2.0000","582027","inc/steptime/totaltime/wall: 582027 / 1.000E+00 / 3.000E+00 / 01:19:02 | Output Field Frame Number   100, of    100, at step time 1.000E+00","2026-10-10 19:16"
-"h386-joscr-ref2001-Dhole-standard-bias-allelastic","RUNNING","S T E P 1 S T A T I C A N A L Y S I S","3","inc 3 attempt 1 dt=1.500E-02 | last solve: 845s","2026-10-11 16:50"
+"h386-joscr-ref2001-Dhole-standard-bias-allelastic","RUNNING","S T E P 1 S T A T I C A N A L Y S I S","3","inc 3 attempt 1 dt=1.500E-02 | last solve: 907s","2026-10-11 17:24"
 "h386-joscr-ref2001-Dhole-standard-bias-allplastic","QUEUED","","","",""
