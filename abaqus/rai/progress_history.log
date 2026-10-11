@@ -40,3 +40,24 @@ Snapshot: 2026-10-11 13:21:40   host: ICON-CHUN-M1   solver procs: 1   CPU load:
   status : queued (not started)
 
 ----------
+Snapshot: 2026-10-11 13:23:06   host: ICON-CHUN-M1   solver procs: 1   CPU load: 13%
+
+[h386-joscr-ref2001-bias-h116]
+  status : COMPLETED
+  step   : STEP 3  ORIGIN 2.0000
+  latest : INCREMENT STEPTIME TOTALTIME WALL ... = 531135  1.000E+00 3.000E+00  18:37:03 7.876E-08        2427  2.903E+01  6.565E+01  1.323E+02
+  output : Output Field Frame Number   100, of    100, at step time 1.000E+00
+
+[h386-joscr-ref2001-bias-h136]
+  status : COMPLETED
+  step   : STEP 3  ORIGIN 2.0000
+  latest : INCREMENT STEPTIME TOTALTIME WALL ... = 582027  1.000E+00 3.000E+00  01:19:02 1.349E-06        2812  3.650E+01  1.156E+01  1.323E+02
+  output : Output Field Frame Number   100, of    100, at step time 1.000E+00
+
+[h386-joscr-ref2001-Dhole-standard-bias-allelastic]
+  status : queued (not started)
+
+[h386-joscr-ref2001-Dhole-standard-bias-allplastic]
+  status : queued (not started)
+
+----------
