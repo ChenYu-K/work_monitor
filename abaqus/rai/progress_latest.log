@@ -1,4 +1,4 @@
-﻿Snapshot: 2026-10-11 18:33:48   host: ICON-CHUN-M1   solver procs: 1   CPU load: 8%
+﻿Snapshot: 2026-10-11 18:49:50   host: ICON-CHUN-M1   solver procs: 1   CPU load: 22%
 
 [h386-joscr-ref2001-bias-h116]
   status : COMPLETED
@@ -13,7 +13,7 @@
 [h386-joscr-ref2001-Dhole-standard-bias-allelastic]
   status : RUNNING
   step   : S T E P 1 S T A T I C A N A L Y S I S
-  detail : inc 4 attempt 1 dt=2.250E-02 | last solve: 755s
+  detail : inc 5 attempt 1 dt=3.375E-02 | last solve: 762s
 
 [h386-joscr-ref2001-Dhole-standard-bias-allplastic]
   status : QUEUED
