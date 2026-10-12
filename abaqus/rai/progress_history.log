@@ -1342,3 +1342,24 @@ Snapshot: 2026-10-12 19:48:24   host: ICON-CHUN-M1   solver procs: 0   CPU load:
   status : QUEUED
 
 ----------
+Snapshot: 2026-10-12 20:18:25   host: ICON-CHUN-M1   solver procs: 0   CPU load: 0%
+
+[h386-joscr-ref2001-bias-h116]
+  status : COMPLETED
+  step   : STEP 3  ORIGIN 2.0000
+  detail : inc/steptime/totaltime/wall: 531135 / 1.000E+00 / 3.000E+00 / 18:37:03 | Output Field Frame Number   100, of    100, at step time 1.000E+00
+
+[h386-joscr-ref2001-bias-h136]
+  status : COMPLETED
+  step   : STEP 3  ORIGIN 2.0000
+  detail : inc/steptime/totaltime/wall: 582027 / 1.000E+00 / 3.000E+00 / 01:19:02 | Output Field Frame Number   100, of    100, at step time 1.000E+00
+
+[h386-joscr-ref2001-Dhole-standard-bias-allelastic]
+  status : RUNNING
+  step   : S T E P 1 S T A T I C A N A L Y S I S
+  detail : inc 5 attempt 1 dt=3.375E-02 | last solve: 831s
+
+[h386-joscr-ref2001-Dhole-standard-bias-allplastic]
+  status : QUEUED
+
+----------
