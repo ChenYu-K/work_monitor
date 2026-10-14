@@ -1,9 +1,9 @@
-﻿Snapshot: 2026-10-14 11:24:54   host: ICON-CHUN-M1   solver procs: 22   CPU load: 6%
+﻿Snapshot: 2026-10-14 11:48:43   host: ICON-CHUN-M1   solver procs: 22   CPU load: 3%
 
 [h391-joscr-ref2001-bias]
   status : RUNNING
   step   : STEP 3  ORIGIN 2.0000
-  detail : inc/steptime/totaltime/wall: 18401 / 3.679E-02 / 2.037E+00 / 23:49:19 | Output Field Frame Number     3, of    100, at step time 3.000E-02
+  detail : inc/steptime/totaltime/wall: 30012 / 6.000E-02 / 2.060E+00 / 24:11:48 | Output Field Frame Number     6, of    100, at step time 6.000E-02
 
 [h386-joscr-ref2001-bias-h116]
   status : COMPLETED
