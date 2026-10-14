@@ -3396,3 +3396,21 @@ Snapshot: 2026-10-15 01:55:11   host: ICON-CHUN-M1   solver procs: 22   CPU load
   detail : inc/steptime/totaltime/wall: 582027 / 1.000E+00 / 3.000E+00 / 01:19:02 | Output Field Frame Number   100, of    100, at step time 1.000E+00
 
 ----------
+Snapshot: 2026-10-15 02:25:08   host: ICON-CHUN-M1   solver procs: 22   CPU load: 2%
+
+[h391-joscr-ref2001-bias]
+  status : RUNNING
+  step   : STEP 3  ORIGIN 2.0000
+  detail : inc/steptime/totaltime/wall: 437852 / 7.649E-01 / 2.765E+00 / 07:16:31 | Output Field Frame Number    76, of    100, at step time 7.600E-01
+
+[h386-joscr-ref2001-bias-h116]
+  status : COMPLETED
+  step   : STEP 3  ORIGIN 2.0000
+  detail : inc/steptime/totaltime/wall: 531135 / 1.000E+00 / 3.000E+00 / 18:37:03 | Output Field Frame Number   100, of    100, at step time 1.000E+00
+
+[h386-joscr-ref2001-bias-h136]
+  status : COMPLETED
+  step   : STEP 3  ORIGIN 2.0000
+  detail : inc/steptime/totaltime/wall: 582027 / 1.000E+00 / 3.000E+00 / 01:19:02 | Output Field Frame Number   100, of    100, at step time 1.000E+00
+
+----------
