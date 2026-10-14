@@ -1,4 +1,4 @@
 ﻿"job","status","step","increment","detail","updated"
-"h391-joscr-ref2001-bias","RUNNING","STEP 3  ORIGIN 2.0000","243547","inc/steptime/totaltime/wall: 243547 / 4.585E-01 / 2.459E+00 / 30:48:32 | Output Field Frame Number    45, of    100, at step time 4.500E-01","2026-10-14 18:25"
+"h391-joscr-ref2001-bias","STOPPED","STEP 3  ORIGIN 2.0000","246364","inc/steptime/totaltime/wall: 246364 / 4.632E-01 / 2.463E+00 / 30:53:25 | Output Field Frame Number    46, of    100, at step time 4.600E-01","2026-10-14 18:31"
 "h386-joscr-ref2001-bias-h116","COMPLETED","STEP 3  ORIGIN 2.0000","531135","inc/steptime/totaltime/wall: 531135 / 1.000E+00 / 3.000E+00 / 18:37:03 | Output Field Frame Number   100, of    100, at step time 1.000E+00","2026-10-09 13:27"
 "h386-joscr-ref2001-bias-h136","COMPLETED","STEP 3  ORIGIN 2.0000","582027","inc/steptime/totaltime/wall: 582027 / 1.000E+00 / 3.000E+00 / 01:19:02 | Output Field Frame Number   100, of    100, at step time 1.000E+00","2026-10-10 19:16"
