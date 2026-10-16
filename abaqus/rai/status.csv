@@ -1,2 +1,2 @@
 ﻿"job","status","step","increment","detail","updated"
-"h396-joscr-ref2001-Dhole-standard-bias","RUNNING","S T E P 1 S T A T I C A N A L Y S I S","2","inc 2 attempt 1 dt=1.000E-02 | last solve: 3002s","2026-10-17 06:49"
+"h396-joscr-ref2001-Dhole-standard-bias","STOPPED","","","Standard .sta: 1     1   1     8     1     9  0.0100     0.0100     0.01000","2026-10-17 06:49"
