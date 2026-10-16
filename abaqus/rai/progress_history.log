@@ -4762,3 +4762,10 @@ Snapshot: 2026-10-16 10:18:25   host: ICON-CHUN-M1   solver procs: 0   CPU load:
   detail : inc/steptime/totaltime/wall: 602689 / 1.000E+00 / 3.000E+00 / 12:39:27 | Output Field Frame Number   100, of    100, at step time 1.000E+00
 
 ----------
+Snapshot: 2026-10-16 10:48:25   host: ICON-CHUN-M1   solver procs: 0   CPU load: 1%
+
+[h396-joscr-ref2001-Dhole-standard-bias]
+  status : STOPPED
+  detail : Standard .sta: 1     1   1     8     1     9  0.0100     0.0100     0.01000
+
+----------
