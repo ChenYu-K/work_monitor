@@ -5264,3 +5264,10 @@ Snapshot: 2026-10-17 20:48:24   host: ICON-CHUN-M1   solver procs: 0   CPU load:
   detail : Standard .sta: 1     1   1     8     1     9  0.0100     0.0100     0.01000
 
 ----------
+Snapshot: 2026-10-17 21:18:24   host: ICON-CHUN-M1   solver procs: 0   CPU load: 37%
+
+[h396-joscr-ref2001-Dhole-standard-bias]
+  status : STOPPED
+  detail : Standard .sta: 1     1   1     8     1     9  0.0100     0.0100     0.01000
+
+----------
