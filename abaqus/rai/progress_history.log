@@ -6646,3 +6646,10 @@ Snapshot: 2026-10-21 21:18:25   host: ICON-CHUN-M1   solver procs: 1   CPU load:
   detail : inc 11 attempt 1 dt=0.241 | last solve: 432s
 
 ----------
+Snapshot: 2026-10-21 21:48:25   host: ICON-CHUN-M1   solver procs: 0   CPU load: 4%
+
+[h396-joscr-ref2001-Dhole-standard-bias]
+  status : STOPPED
+  detail : Standard .sta: 1    11   1U    4     0     4  0.759      0.759      0.2411
+
+----------
