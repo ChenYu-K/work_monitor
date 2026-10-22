@@ -1,7 +1,7 @@
-﻿Snapshot: 2026-10-22 16:48:24   host: ICON-CHUN-M1   solver procs: 1   CPU load: 1%
+﻿Snapshot: 2026-10-22 17:18:24   host: ICON-CHUN-M1   solver procs: 1   CPU load: 5%
 
 [h396-joscr-ref2001-Dhole-standard-bias-disp18]
   status : RUNNING
   step   : S T E P 1 S T A T I C A N A L Y S I S
-  detail : inc 7 attempt 1 dt=1.898E-02 | last solve: 510s
+  detail : inc 8 attempt 1 dt=2.848E-02 | last solve: 502s
 
