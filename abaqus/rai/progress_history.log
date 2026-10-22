@@ -6757,3 +6757,11 @@ Snapshot: 2026-10-22 12:18:24   host: ICON-CHUN-M1   solver procs: 1   CPU load:
   detail : inc 1 attempt 2 dt=2.500E-03 | last solve: 634s
 
 ----------
+Snapshot: 2026-10-22 12:48:24   host: ICON-CHUN-M1   solver procs: 1   CPU load: 6%
+
+[h396-joscr-ref2001-Dhole-standard-bias-disp18]
+  status : RUNNING
+  step   : S T E P 1 S T A T I C A N A L Y S I S
+  detail : inc 1 attempt 2 dt=2.500E-03 | last solve: 602s
+
+----------
