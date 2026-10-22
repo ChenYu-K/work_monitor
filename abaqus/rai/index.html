@@ -4,14 +4,14 @@
 td,th{border-bottom:1px solid #d0d7de;padding:8px;text-align:left;vertical-align:top}th{background:#f6f8fa}
 td:first-child{font-family:monospace;word-break:break-all}.m{color:#57606a}</style></head><body>
 <h2>Abaqus run monitor</h2>
-<p class="m">Updated 2026-10-22 18:48:24 &middot; host ICON-CHUN-M1 &middot; solver processes: 1 &middot; CPU load: 1% &middot; refreshed every 30 min &middot; <a href="status.csv">status.csv</a> &middot; <a href="progress_latest.log">log</a></p>
+<p class="m">Updated 2026-10-22 19:18:31 &middot; host ICON-CHUN-M1 &middot; solver processes: 1 &middot; CPU load: 2% &middot; refreshed every 30 min &middot; <a href="status.csv">status.csv</a> &middot; <a href="progress_latest.log">log</a></p>
 <table><tr><th>Job</th><th>Status</th><th>Step</th><th>Progress</th><th>Last file update</th></tr>
-<tr><td>h396-joscr-ref2001-Dhole-standard-bias-disp18</td><td><b style='color:#0969da'>RUNNING</b></td><td>S T E P 1 S T A T I C A N A L Y S I S</td><td>inc 10 attempt 1 dt=6.407E-02 | last solve: 502s</td><td>2026-10-22 18:43</td></tr>
+<tr><td>h396-joscr-ref2001-Dhole-standard-bias-disp18</td><td><b style='color:#0969da'>RUNNING</b></td><td>S T E P 1 S T A T I C A N A L Y S I S</td><td>inc 11 attempt 1 dt=9.611E-02 | last solve: 484s</td><td>2026-10-22 19:11</td></tr>
 </table>
 <div id="charts"></div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
 <script>
-var DATA = {};
+var DATA = {"h396-joscr-ref2001-Dhole-standard-bias-disp18":{"SOFM  on section B1":[{"y":0,"x":0},{"y":443.46176147460938,"x":0.0025},{"y":881.57684326171875,"x":0.005},{"y":1540.4664306640625,"x":0.00875},{"y":2530.258056640625,"x":0.01438},{"y":4018.05712890625,"x":0.02281},{"y":6253.93603515625,"x":0.03547},{"y":9613.419921875,"x":0.05445},{"y":14674.9130859375,"x":0.08293},{"y":22233.912109375,"x":0.12564}],"SOF3  on section B1":[{"y":0,"x":0},{"y":-0.005555782001465559,"x":0.0025},{"y":-0.010864059440791607,"x":0.005},{"y":-0.018841860815882683,"x":0.00875},{"y":-0.030826017260551453,"x":0.01438},{"y":-0.048839271068573,"x":0.02281},{"y":-0.075909152626991272,"x":0.03547},{"y":-0.11658219248056412,"x":0.05445},{"y":-0.17890346050262451,"x":0.08293},{"y":-0.27043002843856812,"x":0.12564}],"SOF1  on section B1":[{"y":0,"x":0},{"y":-0.010076769627630711,"x":0.0025},{"y":-0.018549347296357155,"x":0.005},{"y":-0.028041398152709007,"x":0.00875},{"y":-0.038835830986499786,"x":0.01438},{"y":-0.051974106580019,"x":0.02281},{"y":-0.069544263184070587,"x":0.03547},{"y":-0.094957038760185242,"x":0.05445},{"y":-0.19428554177284241,"x":0.08293},{"y":-0.25974148511886597,"x":0.12564}],"SOF2  on section B1":[{"y":0,"x":0},{"y":443.46176147460938,"x":0.0025},{"y":881.57684326171875,"x":0.005},{"y":1540.4664306640625,"x":0.00875},{"y":2530.258056640625,"x":0.01438},{"y":4018.05712890625,"x":0.02281},{"y":6253.93603515625,"x":0.03547},{"y":9613.419921875,"x":0.05445},{"y":14674.9130859375,"x":0.08293},{"y":22233.912109375,"x":0.12564}]}};
 var colors = ['#0969da','#cf222e','#1a7f37','#9a6700','#8250df','#bc4c00'];
 Object.keys(DATA).forEach(function (job) {
   var box = document.createElement('div'); box.style.margin = '28px 0';
