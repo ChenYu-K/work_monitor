@@ -9514,3 +9514,9 @@ Snapshot: 2026-10-30 20:48:24   host: ICON-CHUN-M1   solver procs: 0   CPU load:
   status : QUEUED
 
 ----------
+Snapshot: 2026-10-30 21:18:24   host: ICON-CHUN-M1   solver procs: 0   CPU load: 2%
+
+[h396-joscr-ref2001-Dhole-standard-bias-disp18]
+  status : QUEUED
+
+----------
